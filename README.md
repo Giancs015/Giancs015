@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy Gianfranco Cifuentes
 
-<!--
-**Giancs015/Giancs015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de Software Junior enfocado en desarrollo Full-Stack.
 
-Here are some ideas to get you started:
+Actualmente desarrollo aplicaciones web y mobile aplicando programación orientada a objetos, bases de datos relacionales e integración de APIs REST.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías principales
+- Java
+- C# / .NET / ASP.NET MVC
+- Flutter (Dart)
+- SQL Server
+- Git
+
+---
+
+## 🧠 Conocimientos
+- Programación Orientada a Objetos
+- Arquitectura por capas
+- UML y modelado de sistemas
+- Consumo de APIs REST
+- Entity Framework
+
+---
+
+## 📌 Proyectos destacados
+- Sistema web para emisora radial (ASP.NET MVC + EF + SQL)
+- Aplicación móvil de cotizaciones (Flutter + API REST)
+- Algoritmos en Java (recursividad y estructuras de datos)
+
+---
+
+📫 Actualmente buscando mi primera oportunidad laboral como desarrollador trainee/junior.
