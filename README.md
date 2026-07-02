@@ -9,7 +9,6 @@ Actualmente desarrollo aplicaciones web y mobile aplicando programación orienta
 ## 🚀 Tecnologías principales
 - Java
 - C# / .NET / ASP.NET MVC
-- Flutter (Dart)
 - SQL Server
 - Git
 
